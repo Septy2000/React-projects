@@ -25,7 +25,7 @@ function Expenses(props) {
                 amount={props.items[3].amount}
                 date={props.items[3].date}
             ></ExpenseItem>
-        </Card>
+        </Card >
     );
 }
 
